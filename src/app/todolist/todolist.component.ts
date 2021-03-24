@@ -16,8 +16,5 @@ export class ToDoListComponent {
     }
 
     constructor() {}
-    removeArray(i) {
-        this.array.splice(i, 1)
-    }
        
 }
